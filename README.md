@@ -1,7 +1,14 @@
 # Mini-ipod
 #### Tech stack: React
 Hosted Link :- https://piyushhawq.github.io/mini-ipod/
+
+Normal mode
+
 ![Preview  of Ipod](https://raw.githubusercontent.com/piyushhawq/Ipod-React/main/src/assets/images/Normal%20mode%20Mini%20Ipod%20React.png)
+
+Dark mode
+ 
+![Preview  of Ipod](https://raw.githubusercontent.com/piyushhawq/Ipod-React/main/src/assets/images/Dark%20mode%20Mini%20Ipod%20React%20.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
