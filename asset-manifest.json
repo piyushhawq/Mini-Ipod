@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mini-ipod/static/css/main.6f61b3e0.chunk.css",
+    "main.js": "/mini-ipod/static/js/main.3435e527.chunk.js",
+    "main.js.map": "/mini-ipod/static/js/main.3435e527.chunk.js.map",
+    "runtime-main.js": "/mini-ipod/static/js/runtime-main.12626172.js",
+    "runtime-main.js.map": "/mini-ipod/static/js/runtime-main.12626172.js.map",
+    "static/js/2.3ae7bc52.chunk.js": "/mini-ipod/static/js/2.3ae7bc52.chunk.js",
+    "static/js/2.3ae7bc52.chunk.js.map": "/mini-ipod/static/js/2.3ae7bc52.chunk.js.map",
+    "index.html": "/mini-ipod/index.html",
+    "static/css/main.6f61b3e0.chunk.css.map": "/mini-ipod/static/css/main.6f61b3e0.chunk.css.map",
+    "static/js/2.3ae7bc52.chunk.js.LICENSE.txt": "/mini-ipod/static/js/2.3ae7bc52.chunk.js.LICENSE.txt",
+    "static/media/Excuses_320(PagalWorld).085b1cb9.mp3": "/mini-ipod/static/media/Excuses_320(PagalWorld).085b1cb9.mp3",
+    "static/media/Junoon Mitraj_320(PagalWorldl).ee2a90fa.mp3": "/mini-ipod/static/media/Junoon Mitraj_320(PagalWorldl).ee2a90fa.mp3",
+    "static/media/Khaab.078674f1.mp3": "/mini-ipod/static/media/Khaab.078674f1.mp3",
+    "static/media/Parshawan_320(PagalWorld).4a5f3c7e.mp3": "/mini-ipod/static/media/Parshawan_320(PagalWorld).4a5f3c7e.mp3",
+    "static/media/albums.b09054c9.png": "/mini-ipod/static/media/albums.b09054c9.png",
+    "static/media/allsongs.0c6197b3.gif": "/mini-ipod/static/media/allsongs.0c6197b3.gif",
+    "static/media/artists.7f5e149b.jpg": "/mini-ipod/static/media/artists.7f5e149b.jpg",
+    "static/media/attack-on-titan.15cdd84f.jpg": "/mini-ipod/static/media/attack-on-titan.15cdd84f.jpg",
+    "static/media/coverflow.eb883fee.png": "/mini-ipod/static/media/coverflow.eb883fee.png",
+    "static/media/death note.ff9cb3ba.jpg": "/mini-ipod/static/media/death note.ff9cb3ba.jpg",
+    "static/media/games.9b211f3c.jpeg": "/mini-ipod/static/media/games.9b211f3c.jpeg",
+    "static/media/high-school-dxd.e2d2cc59.jpg": "/mini-ipod/static/media/high-school-dxd.e2d2cc59.jpg",
+    "static/media/jujutsu kisan.e5a507a0.jpg": "/mini-ipod/static/media/jujutsu kisan.e5a507a0.jpg",
+    "static/media/pc.d0114a61.jpg": "/mini-ipod/static/media/pc.d0114a61.jpg",
+    "static/media/thumb-Junoon.56bd2ee0.jpg": "/mini-ipod/static/media/thumb-Junoon.56bd2ee0.jpg",
+    "static/media/thumb-Khaab- (AmitMusic.In).de3b9259.jpg": "/mini-ipod/static/media/thumb-Khaab- (AmitMusic.In).de3b9259.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12626172.js",
+    "static/js/2.3ae7bc52.chunk.js",
+    "static/css/main.6f61b3e0.chunk.css",
+    "static/js/main.3435e527.chunk.js"
+  ]
+}
